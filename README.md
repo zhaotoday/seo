@@ -5,6 +5,7 @@
 ## 工具
 [搜外 SEO 工具大全](http://seo.seowhy.com/)  
 [xenu - 死链接检测、sitemap 生成工具](http://www.qianduan.org/post-446.html)  
+[站长工具](http://tool.chinaz.com/)
 
 ## 搜索引擎网站登录入口
 [百度](http://www.baidu.com/search/url_submit.html)  
