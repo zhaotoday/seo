@@ -14,4 +14,4 @@
 [SOSO](http://www.soso.com/help/usb/urlsubmit.shtml)
 
 ## 文章
-[原创干货 | SEO入门知识点，看这篇就够了](http://zaodula.com/archives/17508.html)
+[SEO入门知识点，看这篇就够了](http://zaodula.com/archives/17508.html)
