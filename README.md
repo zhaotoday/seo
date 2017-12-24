@@ -22,3 +22,4 @@
 ## 文章
 - [SEO入门知识点，看这篇就够了](http://zaodula.com/archives/17508.html)  
 - [实用技能：不知道这些SEO知识 何颜做站长！](http://www.51569.com/yunying/22774.html)
+- [掀起SEO的红盖头](https://mp.weixin.qq.com/s/WSEoscT5XJR-YgilGBOXYQ)
