@@ -13,6 +13,12 @@
 - [360](http://info.so.360.cn/site_submit.html)  
 - [SOSO](http://www.soso.com/help/usb/urlsubmit.shtml)
 
+## 指南
+- [百度搜索引擎优化指南2.0](http://zhanzhang.baidu.com/college/documentinfo?id=193&page=1)
+- [百度搜索引擎网页质量白皮书](http://zhanzhang.baidu.com/college/documentinfo?id=186&page=1)
+- [移动站点对百度友好全解](http://zhanzhang.baidu.com/college/documentinfo?id=481&page=1)
+- [最新百度移动搜索落地页体验白皮书——广告篇2.0](http://zhanzhang.baidu.com/college/documentinfo?id=1036)
+
 ## 文章
 - [SEO入门知识点，看这篇就够了](http://zaodula.com/archives/17508.html)  
 - [实用技能：不知道这些SEO知识 何颜做站长！](http://www.51569.com/yunying/22774.html)
