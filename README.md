@@ -1,6 +1,9 @@
 ## 网站
 - [搜外](https://www.seowhy.com/)  
 - [百度站长平台](http://zhanzhang.baidu.com/)
+- [搜狗站长平台](https://zhanzhang.sogou.com/)
+- [360站长平台](https://zhanzhang.so.com/)
+- [头条搜索站长平台](https://zhanzhang.toutiao.com/)
 
 ## 工具
 - [搜外 SEO 工具大全](http://tool.seowhy.com/)  
