@@ -1,5 +1,5 @@
 ## 网站
-- [搜外](http://www.seo.cn/)  
+- [搜外](https://www.seowhy.com/)  
 - [百度站长平台](http://zhanzhang.baidu.com/)
 
 ## 工具
