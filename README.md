@@ -31,3 +31,4 @@
 #### Nuxt.js SEO
 - [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
 - [nuxt3-sitemap](https://github.com/benoitdemaegdt/nuxt3-sitemap)
+- [nuxt-seo](https://github.com/harlan-zw/nuxt-seo)
