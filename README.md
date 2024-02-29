@@ -23,12 +23,16 @@
 - [移动站点对百度友好全解](https://ziyuan.baidu.com/college/documentinfo?id=481&page=1)
 - [最新百度移动搜索落地页体验白皮书——广告篇2.0](https://ziyuan.baidu.com/college/documentinfo?id=2062)
 - [搜索引擎优化 (SEO) 入门指南](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=zh-cn)
-- 
 
 #### 文章
+- [2024 年提高排名的 12 项 SEO 优化最佳实操](https://ahrefs.com/blog/zh/seo-best-practices/)
 - [SEO入门知识点，看这篇就够了](http://zaodula.com/archives/17508.html)  
 - [掀起SEO的红盖头](https://mp.weixin.qq.com/s/WSEoscT5XJR-YgilGBOXYQ)
 - [零成本搭建现代博客之SEO优化篇](https://www.bmpi.dev/dev/guide-to-setup-blog-site-with-zero-cost/2/)
+- [2023年了，做SEO还有必要吗？](https://juejin.cn/post/7205604505647792185)
+- [网站SEO优化过程中如何去挖掘找到网站的关键词?](http://www.cqflash.net/archives/364)
+- [说不定哪天就用到了之SE0篇](https://juejin.cn/post/7272569184004653071)
+- [Puppeteer更通用的SPA单页面应用(vue,react等)搜索引擎seo优化方案](https://juejin.cn/post/6844904082755289095)
 
 #### Nuxt.js SEO
 - [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
@@ -40,5 +44,6 @@
 - [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
 
 #### 博客
+- [SEO (搜索引擎优化)](https://ahrefs.com/blog/zh/category/general-seo/)
 - [Google 搜索中心博客](https://developers.google.com/search/blog?hl=zh-cn)
 - [富裕者联盟](https://www.fuyuzhe.com/)
