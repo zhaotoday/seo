@@ -37,6 +37,7 @@
 
 #### GitHub
 - [awesome-seo](https://github.com/madawei2699/awesome-seo/blob/main/README_CN.md)
+- [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
 
 #### 博客
 - [Google 搜索中心博客](https://developers.google.com/search/blog?hl=zh-cn)
