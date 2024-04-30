@@ -34,6 +34,7 @@
 - [说不定哪天就用到了之SE0篇](https://juejin.cn/post/7272569184004653071)
 - [Puppeteer更通用的SPA单页面应用(vue,react等)搜索引擎seo优化方案](https://juejin.cn/post/6844904082755289095)
 - [说不定哪天就用到了之SE0篇](https://juejin.cn/post/7272569184004653071)
+- [SEO 实践指南](https://juejin.cn/post/7280430525692117032)
 
 #### Nuxt.js SEO
 - [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
