@@ -25,6 +25,7 @@
 - [搜索引擎优化 (SEO) 入门指南](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=zh-cn)
 
 #### 文章
+- [从前端工程师的角度将SEO做到极致](https://juejin.cn/post/7380688287549800467)
 - [⛳前端进阶：SEO 全方位解决方案](https://juejin.cn/post/7241813423460581435)
 - [2024 年提高排名的 12 项 SEO 优化最佳实操](https://ahrefs.com/blog/zh/seo-best-practices/)
 - [SEO入门知识点，看这篇就够了](http://zaodula.com/archives/17508.html)  
