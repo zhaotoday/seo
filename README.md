@@ -48,6 +48,7 @@
 - [awesome-seo](https://github.com/madawei2699/awesome-seo/blob/main/README_CN.md)
 - [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
 - [html-meta-tags](https://github.com/kevinSuttle/html-meta-tags)
+- [siteone-crawler](https://github.com/janreges/siteone-crawler/)
 
 #### 博客
 - [SEO (搜索引擎优化)](https://ahrefs.com/blog/zh/category/general-seo/)
