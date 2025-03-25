@@ -46,6 +46,7 @@
 - [nuxt-seo](https://github.com/harlan-zw/nuxt-seo)
 
 #### GitHub
+- [awesome-seo](https://github.com/teles/awesome-seo)
 - [awesome-seo](https://github.com/madawei2699/awesome-seo/blob/main/README_CN.md)
 - [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
 - [html-meta-tags](https://github.com/kevinSuttle/html-meta-tags)
