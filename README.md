@@ -57,6 +57,7 @@
 - [SEO (搜索引擎优化)](https://ahrefs.com/blog/zh/category/general-seo/)
 - [Google 搜索中心博客](https://developers.google.com/search/blog?hl=zh-cn)
 - [富裕者联盟](https://www.fuyuzhe.com/)
+- [Google快速排名](https://zhuanlan.zhihu.com/c_1277259063647322112)
 
 #### SEO 公司
 - [香港 SEO 公司](https://www.hkgseo.com/)
