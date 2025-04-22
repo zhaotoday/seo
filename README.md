@@ -1,4 +1,5 @@
 #### 网站
+- [极简 SEO 教程](https://simpleseo.zyi1024.com/zh)
 - [搜外](https://www.seowhy.com/)  
 - [百度搜索资源平台](https://ziyuan.baidu.com/)
 - [搜狗搜索资源平台](https://zhanzhang.sogou.com/)
