@@ -6,6 +6,7 @@
 - [360站长平台](https://zhanzhang.so.com/)
 - [头条搜索站长平台](https://zhanzhang.toutiao.com/)
 - [Google 搜索优化专家](https://www.onepound.cn/)
+- [Lighthouse 简介](https://developer.chrome.com/docs/lighthouse/overview?hl=zh-cn)
 
 #### 工具
 - [搜外 SEO 工具大全](http://tool.seowhy.com/)  
