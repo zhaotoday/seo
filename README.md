@@ -28,6 +28,7 @@
 - [搜索引擎优化 (SEO) 入门指南](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=zh-cn)
 
 #### 文章
+- [谷歌性能测评工具lighthouse使用指导](https://blog.csdn.net/DK_Allen/article/details/147602983)
 - [真开箱即用！推荐一款简单易用、功能强大的网站分析工具：SiteOneCrawler](https://juejin.cn/post/7449762934354968612)
 - [从前端工程师的角度将SEO做到极致](https://juejin.cn/post/7380688287549800467)
 - [⛳前端进阶：SEO 全方位解决方案](https://juejin.cn/post/7241813423460581435)
