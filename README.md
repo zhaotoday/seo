@@ -44,11 +44,6 @@
 - [SEO 实践指南](https://juejin.cn/post/7280430525692117032)
 - [2022年B2B官网SEO优化指南(一个具体网站的SEO优化方案)](https://www.funion.info/3943.html)
 
-#### Nuxt.js SEO
-- [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
-- [nuxt3-sitemap](https://github.com/benoitdemaegdt/nuxt3-sitemap)
-- [nuxt-seo](https://github.com/harlan-zw/nuxt-seo)
-
 #### GitHub
 - [awesome-seo](https://github.com/teles/awesome-seo)
 - [awesome-seo](https://github.com/madawei2699/awesome-seo/blob/main/README_CN.md)
