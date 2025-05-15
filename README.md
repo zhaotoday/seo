@@ -29,6 +29,7 @@
 - [搜索引擎优化 (SEO) 入门指南](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=zh-cn)
 
 #### 文章
+- [Lighthouse（灯塔）—— Chrome 浏览器性能测试工具](https://blog.csdn.net/weixin_43993310/article/details/144248471)
 - [谷歌性能测评工具lighthouse使用指导](https://blog.csdn.net/DK_Allen/article/details/147602983)
 - [真开箱即用！推荐一款简单易用、功能强大的网站分析工具：SiteOneCrawler](https://juejin.cn/post/7449762934354968612)
 - [从前端工程师的角度将SEO做到极致](https://juejin.cn/post/7380688287549800467)
