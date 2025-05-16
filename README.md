@@ -1,4 +1,5 @@
 #### 网站
+- [Search Console 使用入门](https://developers.google.cn/search/docs/monitor-debug/search-console-start?hl=zh-cn)
 - [极简 SEO 教程](https://simpleseo.zyi1024.com/zh)
 - [搜外](https://www.seowhy.com/)  
 - [百度搜索资源平台](https://ziyuan.baidu.com/)
