@@ -30,6 +30,7 @@
 - [搜索引擎优化 (SEO) 入门指南](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=zh-cn)
 
 #### 文章
+- [2025年最新的谷歌站长工具完整使用教程（Google Search Console）](https://www.qizansea.com/54577.html)
 - [谷歌搜索控制台（Google Search Console）：利用该工具数据报告优化网站SEO](https://www.wbolt.com/google-search-console.html)
 - [Google Search Console完全指南：从入门到高阶应用（2025版）](https://juejin.cn/post/7484168304623845387)
 - [Lighthouse（灯塔）—— Chrome 浏览器性能测试工具](https://blog.csdn.net/weixin_43993310/article/details/144248471)
