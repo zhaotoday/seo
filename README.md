@@ -17,7 +17,7 @@
 - [站长工具](http://tool.chinaz.com/)
 - [Page Speed](https://pagespeed.web.dev/)
 
-#### 搜索引擎网站登录入口
+#### 登录入口
 - [百度](http://www.baidu.com/search/url_submit.html)  
 - [搜狗](http://www.sogou.com/feedback/urlfeedback.php)  
 - [360](http://info.so.360.cn/site_submit.html)  
