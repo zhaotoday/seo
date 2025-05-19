@@ -31,7 +31,8 @@
 - [提供自适应图片](https://web.dev/articles/serve-responsive-images?hl=zh-cn)
 - [Largest Contentful Paint (LCP) ](https://web.dev/articles/lcp?hl=zh-cn)
 - [Google 搜索支持的结构化数据标记](https://developers.google.com/search/docs/appearance/structured-data/search-gallery?hl=zh-cn)
-- [文章（Article、NewsArticle、BlogPosting）结构化数据](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=zh-cn)
+- [Google 搜索中的结构化数据标记简介](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data?hl=zh-cn)
+- [文章（Article、NewsArticle、BlogPosting）结构化数据](https://developers.google.com/search/docs/appearance/structured-data/article?hl=zh-cn)
 
 #### 文章
 - [2025年最新的谷歌站长工具完整使用教程（Google Search Console）](https://www.qizansea.com/54577.html)
