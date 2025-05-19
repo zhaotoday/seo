@@ -18,6 +18,7 @@
 - [Page Speed](https://pagespeed.web.dev/)
 - [Google Search Console 帮助中心](https://support.google.com/webmasters/topic/9456557?hl=zh-Hans)
 - [富媒体搜索结果测试](https://support.google.com/webmasters/answer/7445569?hl=zh-Hans)
+- [网址检查工具](https://support.google.com/webmasters/answer/9012289?hl=zh-Hans)
 
 #### 登录入口
 - [百度](http://www.baidu.com/search/url_submit.html)  
