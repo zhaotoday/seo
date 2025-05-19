@@ -29,6 +29,7 @@
 - [最新百度移动搜索落地页体验白皮书——广告篇2.0](https://ziyuan.baidu.com/college/documentinfo?id=2062)
 - [搜索引擎优化 (SEO) 入门指南](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=zh-cn)
 - [提供自适应图片](https://web.dev/articles/serve-responsive-images?hl=zh-cn)
+- [Largest Contentful Paint (LCP) ](https://web.dev/articles/lcp?hl=zh-cn)
 
 #### 文章
 - [2025年最新的谷歌站长工具完整使用教程（Google Search Console）](https://www.qizansea.com/54577.html)
