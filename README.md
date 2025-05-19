@@ -16,6 +16,7 @@
 - [sitemap 生成工具](http://tools.bugscaner.com/sitemapspider)
 - [站长工具](http://tool.chinaz.com/)
 - [Page Speed](https://pagespeed.web.dev/)
+- [富媒体搜索结果测试](https://support.google.com/webmasters/answer/7445569?hl=zh-Hans)
 
 #### 登录入口
 - [百度](http://www.baidu.com/search/url_submit.html)  
