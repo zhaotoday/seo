@@ -9,6 +9,7 @@
 - [Google 搜索优化专家](https://www.onepound.cn/)
 - [Lighthouse 简介](https://developer.chrome.com/docs/lighthouse/overview?hl=zh-cn)
 - [web.dev](https://web.dev/)
+- [web.dev 文章](https://web.dev/articles?hl=zh-cn)
 
 #### 工具
 - [搜外 SEO 工具大全](http://tool.seowhy.com/)  
