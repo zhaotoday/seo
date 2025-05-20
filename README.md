@@ -43,6 +43,7 @@
 - [适用于 Google 网页搜索的垃圾内容政策](https://developers.google.com/search/docs/essentials/spam-policies?hl=zh-cn)
 
 #### 文章
+- [一文带你弄懂 前端SEO优化](https://juejin.cn/post/7300118821532778511)
 - [2025年最新的谷歌站长工具完整使用教程（Google Search Console）](https://www.qizansea.com/54577.html)
 - [谷歌搜索控制台（Google Search Console）：利用该工具数据报告优化网站SEO](https://www.wbolt.com/google-search-console.html)
 - [Google Search Console完全指南：从入门到高阶应用（2025版）](https://juejin.cn/post/7484168304623845387)
