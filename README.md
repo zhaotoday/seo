@@ -27,6 +27,7 @@
 - [360](http://info.so.360.cn/site_submit.html)  
 
 #### 指南
+- [SEO Collection](https://zhead.dev/collection/seo)
 - [百度搜索引擎优化指南2.0](http://zhanzhang.baidu.com/college/documentinfo?id=193&page=1)
 - [百度搜索引擎网页质量白皮书](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E7%BD%91%E9%A1%B5%E8%B4%A8%E9%87%8F%E7%99%BD%E7%9A%AE%E4%B9%A6/15388902)
 - [移动站点对百度友好全解](https://ziyuan.baidu.com/college/documentinfo?id=481&page=1)
