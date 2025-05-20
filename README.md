@@ -10,6 +10,7 @@
 - [Lighthouse 简介](https://developer.chrome.com/docs/lighthouse/overview?hl=zh-cn)
 - [web.dev](https://web.dev/)
 - [web.dev 文章](https://web.dev/articles?hl=zh-cn)
+- [The Open Graph protocol](https://ogp.me/)
 
 #### 工具
 - [搜外 SEO 工具大全](http://tool.seowhy.com/)  
