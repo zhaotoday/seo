@@ -15,7 +15,7 @@
 - [搜外 SEO 工具大全](http://tool.seowhy.com/)  
 - [sitemap 生成工具](https://sitemap.zhetao.com/)
 - [sitemap 生成工具](http://tools.bugscaner.com/sitemapspider)
-- [站长工具](http://tool.chinaz.com/)
+- [站长工具](https://tool.chinaz.com/tools/nav)
 - [Page Speed](https://pagespeed.web.dev/)
 - [Google Search Console 帮助中心](https://support.google.com/webmasters/topic/9456557?hl=zh-Hans)
 - [富媒体搜索结果测试](https://support.google.com/webmasters/answer/7445569?hl=zh-Hans)
