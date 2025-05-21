@@ -11,6 +11,7 @@
 - [web.dev](https://web.dev/)
 - [web.dev 文章](https://web.dev/articles?hl=zh-cn)
 - [The Open Graph protocol](https://ogp.me/)
+- [json-ld](https://json-ld.org/)
 
 #### 工具
 - [搜外 SEO 工具大全](http://tool.seowhy.com/)  
