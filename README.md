@@ -26,6 +26,7 @@
 - [网址检查工具](https://support.google.com/webmasters/answer/9012289?hl=zh-Hans)
 - [测试您的结构化数据](https://validator.schema.org/)
 - [Facebook 分享调试工具](https://developers.facebook.com/tools/debug/)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
 
 #### 登录入口
 - [百度](http://www.baidu.com/search/url_submit.html)  
