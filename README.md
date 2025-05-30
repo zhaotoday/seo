@@ -51,6 +51,7 @@
 - [适用于 Google 网页搜索的垃圾内容政策](https://developers.google.com/search/docs/essentials/spam-policies?hl=zh-cn)
 
 #### 文章
+- [Lighthouse 前端性能优化：从一个DEMO项目入手，一步一步提升性能评分](https://juejin.cn/post/7441561669175066674)
 - [全面解析：系统化的页面性能优化指南](https://juejin.cn/post/7428985685123842082)
 - [前端 SEO 优化：全面提升网站可见度的策略指南](https://juejin.cn/post/7430046989955907624)
 - [一文带你弄懂 前端SEO优化](https://juejin.cn/post/7300118821532778511)
