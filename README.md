@@ -15,6 +15,7 @@
 - [SEO优化中心](https://www.wbolt.com/tools/seo-topic)
 
 #### 工具
+- [MagickSEO](https://magickseo.com/)
 - [AITDK](https://aitdk.com/)
 - [clarity](https://clarity.microsoft.com/)
 - [搜外 SEO 工具大全](http://tool.seowhy.com/)  
