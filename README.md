@@ -86,6 +86,7 @@
 - [siteone-crawler](https://github.com/janreges/siteone-crawler/)
 - [lighthouse-ci-action](https://github.com/treosh/lighthouse-ci-action)
 - [unlighthouse](https://github.com/harlan-zw/unlighthouse)
+- [web-vitals](https://github.com/GoogleChrome/web-vitals)
 
 #### 博客
 - [SEO (搜索引擎优化)](https://ahrefs.com/blog/zh/category/general-seo/)
