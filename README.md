@@ -53,6 +53,7 @@
 - [适用于 Google 网页搜索的垃圾内容政策](https://developers.google.com/search/docs/essentials/spam-policies?hl=zh-cn)
 
 #### 文章
+- [最全301/302重定向指南：从SEO到实战，一篇就够了](https://juejin.cn/post/7511611717076762660)
 - [我做个人站长 7 年的经验](https://juejin.cn/post/7383702153892577332)
 - [Lighthouse 前端性能优化：从一个DEMO项目入手，一步一步提升性能评分](https://juejin.cn/post/7441561669175066674)
 - [全面解析：系统化的页面性能优化指南](https://juejin.cn/post/7428985685123842082)
