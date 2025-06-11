@@ -51,6 +51,7 @@
 - [文章（Article、NewsArticle、BlogPosting）结构化数据](https://developers.google.com/search/docs/appearance/structured-data/article?hl=zh-cn)
 - [结构化数据常规指南](https://developers.google.com/search/docs/appearance/structured-data/sd-policies?hl=zh-cn)
 - [适用于 Google 网页搜索的垃圾内容政策](https://developers.google.com/search/docs/essentials/spam-policies?hl=zh-cn)
+- [使用 Lighthouse 优化网页指标](https://web.dev/articles/optimize-vitals-lighthouse?hl=zh_cn)
 
 #### 文章
 - [前端工程师必须掌握的SEO实战指南](https://juejin.cn/post/7514260785318576182)
