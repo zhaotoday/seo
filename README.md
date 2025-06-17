@@ -54,6 +54,7 @@
 - [使用 Lighthouse 优化网页指标](https://web.dev/articles/optimize-vitals-lighthouse?hl=zh_cn)
 
 #### 文章
+- [个人网站开发记录-引流公众号 & 谷歌分析 & 谷歌广告 & GTM](https://juejin.cn/post/7474094009419431970)
 - [前端工程师必须掌握的SEO实战指南](https://juejin.cn/post/7514260785318576182)
 - [最全301/302重定向指南：从SEO到实战，一篇就够了](https://juejin.cn/post/7511611717076762660)
 - [我做个人站长 7 年的经验](https://juejin.cn/post/7383702153892577332)
