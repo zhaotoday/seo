@@ -38,6 +38,7 @@
 - [360](http://info.so.360.cn/site_submit.html)  
 
 #### 指南
+- [The Future of Generative Engine Optimization (GEO)](https://github.com/kingogie88/generative-engine-optimization-2025/blob/main/whitepaper.md)
 - [awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization)
 - [SEO Collection](https://zhead.dev/collection/seo)
 - [百度搜索引擎优化指南2.0](http://zhanzhang.baidu.com/college/documentinfo?id=193&page=1)
