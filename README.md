@@ -14,6 +14,7 @@
 - [The Open Graph protocol](https://ogp.me/)
 - [json-ld](https://json-ld.org/)
 - [SEO优化中心](https://www.wbolt.com/tools/seo-topic)
+- [Experts in Generative Engine Optimisation](https://varn.co.uk/services/generative-engine-optimisation-geo-agency/)
 
 #### 工具
 - [MagickSEO](https://magickseo.com/)
