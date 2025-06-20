@@ -56,6 +56,7 @@
 - [使用 Lighthouse 优化网页指标](https://web.dev/articles/optimize-vitals-lighthouse?hl=zh_cn)
 
 #### 文章
+- [关于GEO，看这一篇就够了](https://www.uweb.net.cn/zhishiku/jingyanfenxiang/26569.html)
 - [SEO 的游戏已经悄悄改变~](https://juejin.cn/post/7506038750398349364)
 - [个人网站开发记录-引流公众号 & 谷歌分析 & 谷歌广告 & GTM](https://juejin.cn/post/7474094009419431970)
 - [前端工程师必须掌握的SEO实战指南](https://juejin.cn/post/7514260785318576182)
