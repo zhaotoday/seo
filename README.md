@@ -60,6 +60,7 @@
 - [国际性和多语言网站主题概览](https://developers.google.com/search/docs/specialty/international?hl=zh-cn)
 
 #### 文章
+- [关于 SEO 的一些有趣的数据统计（2023）](https://zhuanlan.zhihu.com/p/607520800)
 - [doubleclick.net是什么网站？](https://www.zhihu.com/question/556702752/answer/2695484614)
 - [关于GEO，看这一篇就够了](https://www.uweb.net.cn/zhishiku/jingyanfenxiang/26569.html)
 - [SEO 的游戏已经悄悄改变~](https://juejin.cn/post/7506038750398349364)
