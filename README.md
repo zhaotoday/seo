@@ -60,6 +60,7 @@
 - [国际性和多语言网站主题概览](https://developers.google.com/search/docs/specialty/international?hl=zh-cn)
 
 #### 文章
+- [apple 官网做了哪些seo优化](https://juejin.cn/post/7351399718905659419)
 - [谷歌SEO学习汇总 - 2022年12月](https://zhuanlan.zhihu.com/p/596712006)
 - [关于 SEO 的一些有趣的数据统计（2023）](https://zhuanlan.zhihu.com/p/607520800)
 - [doubleclick.net是什么网站？](https://www.zhihu.com/question/556702752/answer/2695484614)
