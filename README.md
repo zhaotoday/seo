@@ -60,6 +60,7 @@
 - [国际性和多语言网站主题概览](https://developers.google.com/search/docs/specialty/international?hl=zh-cn)
 
 #### 文章
+- [Lighthouse 前端性能优化：从一个DEMO项目入手，一步一步提升性能评分](https://juejin.cn/post/7515415903208980521)
 - [我用n8n+Scrapeless搭了个「SEO内容引擎」，全自动挖掘高转化选题，解决出海流量难题](https://juejin.cn/post/7524590361818726450)
 - [apple 官网做了哪些seo优化](https://juejin.cn/post/7351399718905659419)
 - [谷歌SEO学习汇总 - 2022年12月](https://zhuanlan.zhihu.com/p/596712006)
