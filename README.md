@@ -60,6 +60,7 @@
 - [国际性和多语言网站主题概览](https://developers.google.com/search/docs/specialty/international?hl=zh-cn)
 
 #### 文章
+- [你不知道的前端性能优化神器之lighthouse](https://juejin.cn/post/7526635621696552995)
 - [流量翻倍的秘密：跨境电商代购系统SEO关键词选择与转化率提升指南](https://juejin.cn/post/7525288235788156963)
 - [Lighthouse 前端性能优化：从一个DEMO项目入手，一步一步提升性能评分](https://juejin.cn/post/7515415903208980521)
 - [我用n8n+Scrapeless搭了个「SEO内容引擎」，全自动挖掘高转化选题，解决出海流量难题](https://juejin.cn/post/7524590361818726450)
