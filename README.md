@@ -100,6 +100,7 @@
 - [2022年B2B官网SEO优化指南(一个具体网站的SEO优化方案)](https://www.funion.info/3943.html)
 
 #### 开源
+- [google-indexing-script](https://github.com/goenning/google-indexing-script)
 - [python-seo-analyzer](https://github.com/sethblack/python-seo-analyzer)
 - [awesome-seo](https://github.com/teles/awesome-seo)
 - [awesome-seo](https://github.com/madawei2699/awesome-seo/blob/main/README_CN.md)
