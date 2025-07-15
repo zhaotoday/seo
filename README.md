@@ -58,6 +58,7 @@
 - [适用于 Google 网页搜索的垃圾内容政策](https://developers.google.com/search/docs/essentials/spam-policies?hl=zh-cn)
 - [使用 Lighthouse 优化网页指标](https://web.dev/articles/optimize-vitals-lighthouse?hl=zh_cn)
 - [国际性和多语言网站主题概览](https://developers.google.com/search/docs/specialty/international?hl=zh-cn)
+- [seo-checklist](https://github.com/flowforfrank/seo-checklist)
 
 #### 文章
 - [你不知道的前端性能优化神器之lighthouse](https://juejin.cn/post/7526635621696552995)
