@@ -99,7 +99,8 @@
 - [SEO 实践指南](https://juejin.cn/post/7280430525692117032)
 - [2022年B2B官网SEO优化指南(一个具体网站的SEO优化方案)](https://www.funion.info/3943.html)
 
-#### GitHub
+#### 开源
+- [python-seo-analyzer](https://github.com/sethblack/python-seo-analyzer)
 - [awesome-seo](https://github.com/teles/awesome-seo)
 - [awesome-seo](https://github.com/madawei2699/awesome-seo/blob/main/README_CN.md)
 - [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
