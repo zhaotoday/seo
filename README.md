@@ -42,6 +42,7 @@
 - [360](http://info.so.360.cn/site_submit.html)  
 
 #### 指南
+- [Sitemaps XML format](https://www.sitemaps.org/protocol.html)
 - [创建和提交站点地图](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap?hl=zh-cn)
 - [The Future of Generative Engine Optimization (GEO)](https://github.com/kingogie88/generative-engine-optimization-2025/blob/main/whitepaper.md)
 - [awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization)
