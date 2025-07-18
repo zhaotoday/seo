@@ -18,6 +18,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [XML Sitemap Validator](https://www.xml-sitemaps.com/validate-xml-sitemap.html)
 - [MagickSEO](https://magickseo.com/)
 - [AITDK](https://aitdk.com/)
 - [clarity](https://clarity.microsoft.com/)
