@@ -65,6 +65,7 @@
 - [seo-checklist](https://github.com/flowforfrank/seo-checklist)
 
 #### 文章
+- [Lighthouse 满分攻略：性能优化黑科技](https://juejin.cn/post/7500491627401429042)
 - [你不知道的前端性能优化神器之lighthouse](https://juejin.cn/post/7526635621696552995)
 - [流量翻倍的秘密：跨境电商代购系统SEO关键词选择与转化率提升指南](https://juejin.cn/post/7525288235788156963)
 - [Lighthouse 前端性能优化：从一个DEMO项目入手，一步一步提升性能评分](https://juejin.cn/post/7515415903208980521)
