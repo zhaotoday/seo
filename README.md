@@ -22,6 +22,7 @@
 - [XML Sitemap Validator](https://www.xml-sitemaps.com/validate-xml-sitemap.html)
 - [MagickSEO](https://magickseo.com/)
 - [AITDK](https://aitdk.com/)
+- [AITDK SEO Extension](https://aitdk.com/extension)
 - [clarity](https://clarity.microsoft.com/)
 - [搜外 SEO 工具大全](http://tool.seowhy.com/)  
 - [sitemap 生成工具](https://sitemap.zhetao.com/)
