@@ -67,6 +67,7 @@
 - [seo-checklist](https://github.com/flowforfrank/seo-checklist)
 
 #### 文章
+- [「Versakit攻略」或许我们还是需要一份SEO优化攻略🔥🔥](https://juejin.cn/post/7510153633491320847)
 - [我写了一个简易的 SEO 教程，希望能让新手朋友看完以后， SEO 能做到 80 分](https://juejin.cn/post/7495574058698194985)
 - [Lighthouse与首屏优化](https://juejin.cn/post/7518234884479156265)
 - [Lighthouse 满分攻略：性能优化黑科技](https://juejin.cn/post/7500491627401429042)
