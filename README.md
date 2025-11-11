@@ -111,6 +111,7 @@
 - [2022年B2B官网SEO优化指南(一个具体网站的SEO优化方案)](https://www.funion.info/3943.html)
 
 #### 开源
+- [VibeCodingSEO](https://github.com/markfulton/VibeCodingSEO)
 - [google-indexing-script](https://github.com/goenning/google-indexing-script)
 - [ragrabbit](https://github.com/madarco/ragrabbit)
 - [perfume.js](https://github.com/Zizzamia/perfume.js)
