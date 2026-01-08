@@ -18,6 +18,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [geo-ai-agent](https://github.com/brightdata/geo-ai-agent)
 - [cliseo](https://github.com/cliseo/cliseo)
 - [seogets](https://seogets.com/)
 - [hreflang Tags Testing Tool](https://technicalseo.com/tools/hreflang/)
