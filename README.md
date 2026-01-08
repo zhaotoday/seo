@@ -18,6 +18,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [cliseo](https://github.com/cliseo/cliseo)
 - [seogets](https://seogets.com/)
 - [hreflang Tags Testing Tool](https://technicalseo.com/tools/hreflang/)
 - [XML Sitemap Validator](https://www.xml-sitemaps.com/validate-xml-sitemap.html)
