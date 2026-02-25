@@ -70,6 +70,7 @@
 - [seo-checklist](https://github.com/flowforfrank/seo-checklist)
 
 #### 文章
+- [一文搞懂 SEO 全流程技术](https://juejin.cn/post/7609891142464159780)
 - [出海需求怎么挖？我用 Google “新词”找到 0-1 的机会（附 122 个词根）](https://juejin.cn/post/7589107312112975881)
 - [SEO听不懂？看完这篇你明天就能优化网站了](https://juejin.cn/post/7577411657392635946)
 - [SEO还没死，GEO之战已经开始](https://juejin.cn/post/7547051639740743721)
