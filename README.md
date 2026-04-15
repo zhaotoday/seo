@@ -117,6 +117,7 @@
 - [2022年B2B官网SEO优化指南(一个具体网站的SEO优化方案)](https://www.funion.info/3943.html)
 
 #### 开源
+- [seo-kit](https://github.com/TheMattBerman/seo-kit)
 - [seomachine](https://github.com/TheCraigHewitt/seomachine)
 - [awesome-seo](https://github.com/bmpi-dev/awesome-seo)
 - [VibeCodingSEO](https://github.com/markfulton/VibeCodingSEO)
