@@ -53,6 +53,7 @@
 - [360](http://info.so.360.cn/site_submit.html)  
 
 #### 指南
+- [PageSpeed Insights API 使用入门](https://developers.google.com/speed/docs/insights/v5/get-started?hl=zh-cn)
 - [AI-SEO-GEO-Guide](https://github.com/Oden-a11y/AI-SEO-GEO-Guide)
 - [Sitemaps XML format](https://www.sitemaps.org/protocol.html)
 - [创建和提交站点地图](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap?hl=zh-cn)
