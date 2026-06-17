@@ -20,6 +20,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker)
 - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 - [next-seo](https://github.com/garmeeh/next-seo)
 - [open-seo](https://github.com/every-app/open-seo)
