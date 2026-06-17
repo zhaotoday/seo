@@ -139,6 +139,7 @@
 - [web-vitals](https://github.com/GoogleChrome/web-vitals)
 
 #### 博客
+- [onepound](https://www.onepound.cn/)
 - [SEO (搜索引擎优化)](https://ahrefs.com/blog/zh/category/general-seo/)
 - [Google 搜索中心博客](https://developers.google.com/search/blog?hl=zh-cn)
 - [富裕者联盟](https://www.fuyuzhe.com/)
