@@ -20,6 +20,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [next-seo](https://github.com/garmeeh/next-seo)
 - [open-seo](https://github.com/every-app/open-seo)
 - [geo-ai-agent](https://github.com/brightdata/geo-ai-agent)
 - [cliseo](https://github.com/cliseo/cliseo)
