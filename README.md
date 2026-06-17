@@ -20,6 +20,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [linkinator](https://github.com/JustinBeckwith/linkinator)
 - [awesome-seo](https://teles.dev.br/awesome-seo/)
 - [seomator](https://seomator.com/)
 - [geo-aeo-tracker](https://github.com/danishashko/geo-aeo-tracker)
