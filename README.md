@@ -20,6 +20,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [svelte-seo](https://github.com/artiebits/svelte-seo)
 - [linkinator](https://github.com/JustinBeckwith/linkinator)
 - [awesome-seo](https://teles.dev.br/awesome-seo/)
 - [seomator](https://seomator.com/)
