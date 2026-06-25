@@ -1,4 +1,5 @@
 #### 网站
+- [针对 Google 搜索中的生成式 AI 功能优化网站](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide?hl=zh-cn)
 - [The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
 - [Google 搜索要素](https://developers.google.com/search/docs/essentials?hl=zh-cn)
 - [优网知识库](https://www.uweb.net.cn/zhishiku/SEOyuSEM)
