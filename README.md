@@ -59,6 +59,7 @@
 - [360](http://info.so.360.cn/site_submit.html)  
 
 #### 指南
+- [PageSpeed Insights 简介](https://developers.google.com/speed/docs/insights/v5/about?hl=zh-cn)
 - [PageSpeed Insights API 使用入门](https://developers.google.com/speed/docs/insights/v5/get-started?hl=zh-cn)
 - [AI-SEO-GEO-Guide](https://github.com/Oden-a11y/AI-SEO-GEO-Guide)
 - [Sitemaps XML format](https://www.sitemaps.org/protocol.html)
