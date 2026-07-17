@@ -21,6 +21,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [site-audit-seo](https://github.com/viasite/site-audit-seo)
 - [playwright-lighthouse](https://github.com/abhinaba-ghosh/playwright-lighthouse)
 - [lighthouse-mcp-server](https://github.com/danielsogl/lighthouse-mcp-server)
 - [lighthouse](https://github.com/GoogleChrome/lighthouse)
