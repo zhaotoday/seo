@@ -21,6 +21,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [lighthouse-check](https://github.com/foo-software/lighthouse-check)
 - [agentic-seo](https://github.com/addyosmani/agentic-seo)
 - [svelte-seo](https://github.com/artiebits/svelte-seo)
