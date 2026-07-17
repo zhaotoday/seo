@@ -21,6 +21,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [lighthouse-mcp-server](https://github.com/danielsogl/lighthouse-mcp-server)
 - [lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [lighthouse-check](https://github.com/foo-software/lighthouse-check)
 - [agentic-seo](https://github.com/addyosmani/agentic-seo)
