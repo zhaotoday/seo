@@ -21,6 +21,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [elmo](https://github.com/elmohq/elmo)
 - [geolook](https://github.com/aigclink/geolook)
 - [crawlseo](https://github.com/crawlseo/crawlseo)
 - [auditkit](https://github.com/Danilaa1/auditkit)
