@@ -24,6 +24,7 @@
 - [seobuild-onpage](https://github.com/gbessoni/seobuild-onpage)
 - [elmo](https://github.com/elmohq/elmo)
 - [geolook](https://github.com/aigclink/geolook)
+- [open-seo](https://github.com/every-app/open-seo)
 - [crawlseo](https://github.com/crawlseo/crawlseo)
 - [auditkit](https://github.com/Danilaa1/auditkit)
 - [site-audit-seo](https://github.com/viasite/site-audit-seo)
