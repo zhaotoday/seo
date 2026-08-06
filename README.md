@@ -21,6 +21,7 @@
 - [Google Trends](https://trends.google.com/trends/)
 
 #### 工具
+- [RustySEO](https://github.com/mascanho/RustySEO)
 - [seobuild-onpage](https://github.com/gbessoni/seobuild-onpage)
 - [elmo](https://github.com/elmohq/elmo)
 - [geolook](https://github.com/aigclink/geolook)
