@@ -145,6 +145,7 @@
 - [2022年B2B官网SEO优化指南(一个具体网站的SEO优化方案)](https://www.funion.info/3943.html)
 
 #### 开源
+- [schema-dts](https://github.com/google/schema-dts)
 - [awesome-seo](https://github.com/teles/awesome-seo)
 - [awesome-ai-seo](https://github.com/best-of-ai/awesome-ai-seo)
 - [GEOFlow](https://github.com/yaojingang/GEOFlow)
