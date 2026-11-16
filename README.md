@@ -37,7 +37,6 @@
 - [seomator](https://seomator.com/)
 - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 - [next-seo](https://github.com/garmeeh/next-seo)
-- [open-seo](https://github.com/every-app/open-seo)
 - [cliseo](https://github.com/cliseo/cliseo)
 - [seogets](https://seogets.com/)
 - [hreflang Tags Testing Tool](https://technicalseo.com/tools/hreflang/)
@@ -57,7 +56,6 @@
 - [网址检查工具](https://support.google.com/webmasters/answer/9012289?hl=zh-Hans)
 - [测试您的结构化数据](https://validator.schema.org/)
 - [Facebook 分享调试工具](https://developers.facebook.com/tools/debug/)
-- [PageSpeed Insights](https://pagespeed.web.dev/)
 - [META SEO inspector](https://chromewebstore.google.com/detail/meta-seo-inspector/ibkclpciafdglkjkcibmohobjkcfkaef)
 
 #### 登录入口
@@ -129,7 +127,6 @@
 - [网站SEO优化过程中如何去挖掘找到网站的关键词?](http://www.cqflash.net/archives/364)
 - [说不定哪天就用到了之SE0篇](https://juejin.cn/post/7272569184004653071)
 - [Puppeteer更通用的SPA单页面应用(vue,react等)搜索引擎seo优化方案](https://juejin.cn/post/6844904082755289095)
-- [说不定哪天就用到了之SE0篇](https://juejin.cn/post/7272569184004653071)
 - [SEO 实践指南](https://juejin.cn/post/7280430525692117032)
 - [2022年B2B官网SEO优化指南(一个具体网站的SEO优化方案)](https://www.funion.info/3943.html)
 
@@ -147,9 +144,7 @@
 - [perfume.js](https://github.com/Zizzamia/perfume.js)
 - [yall.js](https://github.com/malchata/yall.js)
 - [seonaut](https://github.com/StJudeWasHere/seonaut)
-- [google-indexing-script](https://github.com/goenning/google-indexing-script)
 - [python-seo-analyzer](https://github.com/sethblack/python-seo-analyzer)
-- [awesome-seo](https://github.com/teles/awesome-seo)
 - [awesome-seo](https://github.com/madawei2699/awesome-seo/blob/main/README_CN.md)
 - [awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)
 - [html-meta-tags](https://github.com/kevinSuttle/html-meta-tags)
@@ -168,5 +163,4 @@
 
 #### SEO 公司
 - [frankknow](https://frankknow.com/)
-- [onepound](https://www.onepound.cn/)
 - [香港 SEO 公司](https://www.hkgseo.com/)
