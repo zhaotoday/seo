@@ -164,3 +164,12 @@
 #### SEO 公司
 - [frankknow](https://frankknow.com/)
 - [香港 SEO 公司](https://www.hkgseo.com/)
+
+#### Skill
+- [iannuttall/seo](https://github.com/iannuttall/seo)
+- [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill)
+- [seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill)
+- [codex-seo](https://github.com/AgriciDaniel/codex-seo)
+- [seo-audit-skill](https://github.com/seo-skills/seo-audit-skill)
+- [superseo-skills](https://github.com/inhouseseo/superseo-skills)
+- [Google-SEOs.skill](https://github.com/zlbigger/Google-SEOs.skill)
