@@ -166,6 +166,8 @@
 - [香港 SEO 公司](https://www.hkgseo.com/)
 
 #### Skill
+- [open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)
+- [awesome-seo-agent-skills](https://github.com/RankSpotAI/awesome-seo-agent-skills)
 - [iannuttall/seo](https://github.com/iannuttall/seo)
 - [Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill)
 - [seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill)
